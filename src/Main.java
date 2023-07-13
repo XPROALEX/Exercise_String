@@ -70,6 +70,6 @@ public class Main {
         String middleNumbers = "       4 5 6";
         String earlyNumbers = "1 2 3";
 
-        System.out.println(); // <--- Write your code here
+        System.out.println(earlyNumbers+" "+middleNumbers.trim()+" "+endNumbers); // <--- Write your code here
     }
 }
