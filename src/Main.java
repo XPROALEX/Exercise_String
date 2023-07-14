@@ -52,7 +52,7 @@ public class Main {
     private static void exercise3() {
         System.out.println("\nExercise 3:");
 
-        String textFrom2Primitives = ""; // <--- Edit this line
+        String textFrom2Primitives = ""+'A'+4.5+true; // <--- Edit this line
         System.out.println(textFrom2Primitives);
     }
 
